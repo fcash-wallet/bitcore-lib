@@ -54021,7 +54021,7 @@ arguments[4][262][0].apply(exports,arguments)
 },{}],320:[function(require,module,exports){
 module.exports={
   "name": "fcash-lib",
-  "version": "8.0.2",
+  "version": "8.0.3",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "Fcash <dev@fcash.cash>",
   "main": "index.js",

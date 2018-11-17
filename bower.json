@@ -1,7 +1,7 @@
 {
   "name": "fcash-lib",
   "main": "./fcash-lib.min.js",
-  "version": "8.0.2",
+  "version": "8.0.3",
   "homepage": "http://www.fcash.cash",
   "authors": ["Fcash, Inc."],
   "description": "A pure, powerful core for your bitcoin project.",
