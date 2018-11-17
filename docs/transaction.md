@@ -22,7 +22,7 @@ You can obtain the input and output total amounts of the transaction in satoshis
 Now, this could just be serialized to hexadecimal ASCII values (`transaction.serialize()`) and sent over to the bitcoind reference client.
 
 ```bash
-bitcoin-cli sendrawtransaction <serialized transaction>
+fcash-cli sendrawtransaction <serialized transaction>
 ```
 
 You can also override the fee estimation with another amount, specified in satoshis:
