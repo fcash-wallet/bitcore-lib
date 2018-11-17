@@ -1,9 +1,9 @@
 {
   "name": "fcash-lib",
   "main": "./fcash-lib.min.js",
-  "version": "5.0.0-beta.1",
+  "version": "8.0.2",
   "homepage": "http://www.fcash.cash",
-  "authors": ["BitPay, Inc."],
+  "authors": ["Fcash, Inc."],
   "description": "A pure, powerful core for your bitcoin project.",
   "moduleType": ["globals"],
   "keywords": ["bitcoin", "fcash", "btc", "satoshi"],

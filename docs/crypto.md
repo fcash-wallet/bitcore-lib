@@ -1,5 +1,5 @@
 # Bitcoin Crypto
-The cryptographic primitives (ECDSA and HMAC) implementations in this package have been reviewed by the BitPay engineering team. More audits and reviews are welcomed.
+The cryptographic primitives (ECDSA and HMAC) implementations in this package have been reviewed by the Fcash engineering team. More audits and reviews are welcomed.
 
 ## Random
 The `fcash.crypto.Random` namespace contains a single function, named `getRandomBuffer(size)` that returns a `Buffer` instance with random bytes. It may not work depending on the engine that fcash is running on (doesn't work with IE versions lesser than 11).

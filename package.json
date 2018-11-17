@@ -1,8 +1,8 @@
 {
   "name": "fcash-lib",
-  "version": "0.15.0",
+  "version": "8.0.2",
   "description": "A pure and powerful JavaScript Bitcoin library.",
-  "author": "BitPay <dev@fcash.cash>",
+  "author": "Fcash <dev@fcash.cash>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",

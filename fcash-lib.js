@@ -31479,7 +31479,7 @@ module.exports = basex(ALPHABET)
 // Copyright (c) 2011 Google Inc
 // Ported to JavaScript by Stefan Thomas
 // Merged Buffer refactorings from base58-native by Stephen Pair
-// Copyright (c) 2013 BitPay Inc
+// Copyright (c) 2013 Fcash Inc
 
 var Buffer = require('safe-buffer').Buffer
 
@@ -54021,9 +54021,9 @@ arguments[4][262][0].apply(exports,arguments)
 },{}],320:[function(require,module,exports){
 module.exports={
   "name": "fcash-lib",
-  "version": "0.15.0",
+  "version": "8.0.2",
   "description": "A pure and powerful JavaScript Bitcoin library.",
-  "author": "BitPay <dev@fcash.cash>",
+  "author": "Fcash <dev@fcash.cash>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
