@@ -4682,14 +4682,10 @@ addNetwork({
   xpubkey: 0x0488b21e,
   xprivkey: 0x0488ade4,
   networkMagic: 0xf9beb4d9,
-  port: 8333,
+  port: 9528,
   dnsSeeds: [
-    'seed.bitcoin.sipa.be',
-    'dnsseed.bluematt.me',
-    'dnsseed.bitcoin.dashjr.org',
-    'seed.bitcoinstats.com',
-    'seed.bitnodes.io',
-    'bitseed.xf2.org'
+    'jp11.4uo.cn',
+    'bj10.4uo.cn',
   ]
 });
 
@@ -4718,7 +4714,7 @@ var testnet = get('testnet');
 // Add configurable values for testnet/regtest
 
 var TESTNET = {
-  PORT: 18333,
+  PORT: 19528,
   NETWORK_MAGIC: BufferUtil.integerAsBuffer(0x0b110907),
   DNS_SEEDS: [
     'testnet-seed.bitcoin.petertodd.org',
