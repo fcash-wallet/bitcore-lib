@@ -16,7 +16,7 @@ You can also use a `bower.json` file to store the dependencies of your project:
   "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
-    "fcash-lib": "8.0.3",
+    "fcash-lib": "8.0.4",
     "fcash-mnemonic": "^1.0.1"
   }
 }
